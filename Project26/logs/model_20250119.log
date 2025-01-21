@@ -1,0 +1,10 @@
+2025-01-19 21:19:18,682 - model - INFO - Pipeline created successfully
+2025-01-19 21:19:18,682 - model - INFO - Starting model training with RandomizedSearchCV...
+2025-01-19 21:19:24,498 - model - INFO - Best parameters: {'regressor__n_estimators': 100, 'regressor__max_depth': 4, 'regressor__learning_rate': 0.1}
+2025-01-19 21:19:24,498 - model - INFO - Best score: -0.02649916454542132
+2025-01-19 21:19:24,506 - model - INFO - Model saved to D:\Coolyeah\Kaeyl26\Project26\artifacts\best_model.pkl
+2025-01-19 21:40:13,197 - model - INFO - Pipeline created successfully
+2025-01-19 21:40:13,197 - model - INFO - Starting model training with RandomizedSearchCV...
+2025-01-19 21:40:16,763 - model - INFO - Best parameters: {'regressor__max_depth': 3, 'regressor__learning_rate': 0.1}
+2025-01-19 21:40:16,765 - model - INFO - Best score: -0.025882603321858672
+2025-01-19 21:40:16,771 - model - INFO - Model saved to D:\Coolyeah\Kaeyl26\Project26\artifacts\best_model.pkl

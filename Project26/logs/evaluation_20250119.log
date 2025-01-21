@@ -1,0 +1,8 @@
+2025-01-19 21:19:24,517 - evaluation - INFO - train_r2: 0.9360
+2025-01-19 21:19:24,518 - evaluation - INFO - test_r2: 0.8619
+2025-01-19 21:19:24,518 - evaluation - INFO - train_rmse: 17906.8900
+2025-01-19 21:19:24,518 - evaluation - INFO - test_rmse: 27156.4872
+2025-01-19 21:40:16,784 - evaluation - INFO - train_r2: 0.9166
+2025-01-19 21:40:16,784 - evaluation - INFO - test_r2: 0.8669
+2025-01-19 21:40:16,784 - evaluation - INFO - train_rmse: 21062.3023
+2025-01-19 21:40:16,785 - evaluation - INFO - test_rmse: 26752.7154
